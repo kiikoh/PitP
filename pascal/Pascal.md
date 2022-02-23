@@ -2,7 +2,7 @@
 
 ## Commentary
 
-After doing a few of these I feel like I have a good grasp of what I need from a language to make a caesar cipher. I start by finding a compiler and getting hello world to run. From there, I look up how to create a function. After that I create essentially an “echo” function, which just returns one of the parameters I give it. So far, Pascal has had very helpful online documentation and it is easy for me to find all of the resources I need. Next I get into the meat of the program, needing helper functions like toUpper, if the language has it, a way to do modulus, a looping structure, and a char to int conversion and vice versa. Once again, this info is readily available. One thing that was kind of strange to me is the need to declare variables at the function header but the compiler gives a good enough error message so that it is something I can search for, and once again quickly resolve the problem. I found that the toUpper function is located in the sysutils library, so that is something new, I haven’t had to import anything in the other languages. I kind of like that extra functionality can be located in external libraries to reduce the size of the compiled program. This makes the language more orthogonal by default, while still allowing for extra convenience where it makes sense.
+After doing a few of these I feel like I have a good grasp of what I need from a language to make a caesar cipher. I start by finding a compiler and getting hello world to run. From there, I look up how to create a function. After that I create essentially an “echo” function, which just returns one of the parameters I give it. So far, Pascal has had very helpful online documentation and it is easy for me to find all of the resources I need. Next I get into the meat of the program, needing helper functions like toUpper, if the language has it, a way to do modulus, a looping structure, and a char to int conversion and vice versa. Once again, this info is readily available. I assemble this into the way that I know how to by now, and voila, a working program. No big problems arose during the development of this program.
 
 ## Google Searches
 
@@ -94,6 +94,8 @@ Shift: 26 Result: ABCDEFGHIJKLMNOPQRSTUVWXYZ ,?;{[()]}
 
 ## Log
 
+Prediction: 2 hours
+
 | Date | Hours Spent | Accomplishments                                                         |
 | ---- | ----------- | ----------------------------------------------------------------------- |
 | 2/7  | 0.5         | Set up dev env                                                          |
@@ -103,12 +105,16 @@ Shift: 26 Result: ABCDEFGHIJKLMNOPQRSTUVWXYZ ,?;{[()]}
 
 ### Discrepancy of time
 
+This language went by really quick. Largely due to good documentation, which I am learning to be one of the most important aspect of a language. I still went a little bit over budget due to extensive testing, but nothing really arose during the testing period except for a few minor tweaks. 
+
 ## Overall Review
+
+This language is a pretty good language. It has a lot of strange syntactical choices, I think. For example, the walrus operator for equals is not a common thing in other languages and adds to the cost of using the language. I know you have mentioned that you like this decision, but on my personal machine I use font ligatures which change the == into a different symbol so this was never a problem for me. They do similar odd things like this in a few spots... the use of writeln vs println, comments, semicolons in the function typing parameters instead of commas, thing like that do not some to add anything to the language and are just being done to be different. One thing that was kind of strange to me is the need to declare variables at the function header but the compiler gives a good enough error message so that it is something I can search for, and once again quickly resolve the problem. I found that the toUpper function is located in the sysutils library, so that is something new, I haven’t had to import anything in the other languages. I kind of like that extra functionality can be located in external libraries to reduce the size of the compiled program. This makes the language more orthogonal by default, while still allowing for extra convenience where it makes sense.
 
 ## Ratings
 
 Readability: 7/10
 
-Writability: 7/10
+Writability: 6/10
 
-Ranking: 2/5
+Ranking: 3/5

@@ -118,8 +118,8 @@ I really enjoyed this language, there were a few aspects which confused me. For 
 
 ## Ratings
 
-Readability: 6/10
+Readability: 8/10
 
-Writability: 5/10
+Writability: 7/10
 
 Ranking: 2/5

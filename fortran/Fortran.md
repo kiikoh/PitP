@@ -175,6 +175,6 @@ Fortran was tough to develop mainly because of how different some of the syntax 
 
 Readability: 5/10
 
-Writability: 3/10
+Writability: 4/10
 
 Ranking: 4/5

@@ -144,8 +144,8 @@ This took me by far the most time to implement. One of my biggest problems was f
 
 ## Ratings
 
-Readability: 5/10
+Readability: 4/10
 
-Writability: 2/10
+Writability: 1/10
 
 Ranking: 5/5
