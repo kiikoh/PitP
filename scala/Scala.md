@@ -17,6 +17,7 @@ A breath of fresh air to find a programming language that has its own website. T
 ## Caesar Implementation
 
 ```scala
+
 // run with scala caesar.scala
 object Caesar extends App {
 
@@ -56,6 +57,7 @@ object Caesar extends App {
 ### Output
 
 ```
+
 EXXEGO EX SRGI
 ATTACK AT ONCE
 1       ZABCDEFGHIJKLMNOPQRSTUVWXY ,?;{[()]}
@@ -110,7 +112,7 @@ Readability: 9/10
 
 Writability: 8/10
 
-Ranking: 1/5
+Ranking: 1st
 
 # Final Rankings
 1. Scala

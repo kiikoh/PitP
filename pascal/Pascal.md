@@ -117,4 +117,4 @@ Readability: 7/10
 
 Writability: 6/10
 
-Ranking: 3/5
+Ranking: 3rd
